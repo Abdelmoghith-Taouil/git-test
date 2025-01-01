@@ -1,0 +1,14 @@
+html,body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100%;
+}
+div{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 255, 60);
+    font-size: 50px;
+
+}
